@@ -1,5 +1,2 @@
-no1:this is no first.
-no2:this is no second.
-no3:this is no third.
 no4£ºthis is no four.
 
